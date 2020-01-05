@@ -1,0 +1,26 @@
+{
+  "name": "swallow",
+  "version": "1.0.0",
+  "description": "anonim-network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielOrDany/swallow.git"
+  },
+  "keywords": [
+    "swallow"
+  ],
+  "author": "OtDanny",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DanielOrDany/swallow/issues"
+  },
+  "homepage": "https://github.com/DanielOrDany/swallow#readme",
+  "dependencies": {
+    "telegraf-inline-menu": "^4.0.0"
+  }
+}
